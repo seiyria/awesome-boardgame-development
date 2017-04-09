@@ -5,25 +5,16 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Rules Writing](#rules-writing)
 
 
-## Section
+## Rules Writing
 
 About this section. Optional. Keep this short and focus on the list.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [11 rules for board game writing](http://ryanmacklin.com/2015/02/11-rules-board-game-writing/)
+- [10 rules for writing rules [video]](https://www.youtube.com/watch?v=SshUdUEtIw8)
+- [Tips for Rules Writing](http://sedjtroll.blogspot.com/2015/03/tips-for-rules-writing.html?m=1)
 
 ## Contribute
 
