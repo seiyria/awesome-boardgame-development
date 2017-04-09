@@ -10,11 +10,11 @@
 
 ## Rules Writing
 
-About this section. Optional. Keep this short and focus on the list.
+Information and rules on how to write rules for your board games.
 
-- [11 rules for board game writing](http://ryanmacklin.com/2015/02/11-rules-board-game-writing/)
-- [10 rules for writing rules [video]](https://www.youtube.com/watch?v=SshUdUEtIw8)
-- [Tips for Rules Writing](http://sedjtroll.blogspot.com/2015/03/tips-for-rules-writing.html?m=1)
+- [11 rules for board game writing](http://ryanmacklin.com/2015/02/11-rules-board-game-writing/) - dos and don'ts from a board game rules editor
+- [10 rules for writing rules](https://www.youtube.com/watch?v=SshUdUEtIw8) - a PAX dev talk on writing rules
+- [Tips for Rules Writing](http://sedjtroll.blogspot.com/2015/03/tips-for-rules-writing.html) - some guidelines on writing rules
 
 ## Contribute
 
