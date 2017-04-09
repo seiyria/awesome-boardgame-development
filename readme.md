@@ -24,7 +24,7 @@ Information and rules on how to write rules for your board games.
 - [10 rules for writing rules](https://www.youtube.com/watch?v=SshUdUEtIw8) - a PAX dev talk on writing rules
 - [Tips for Rules Writing](http://sedjtroll.blogspot.com/2015/03/tips-for-rules-writing.html) - some guidelines on writing rules
 
-## Creation tools
+## Creation Tools
 
 Tools that can be used in board game development.
 
