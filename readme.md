@@ -15,6 +15,7 @@ Places to go to talk about board game design with other designers.
 
 - [/r/tabletopgamedesign](https://www.reddit.com/r/tabletopgamedesign/) - a subreddit filled with game designers
 - [Protospiel Facebook Group](https://www.facebook.com/groups/2261144717) - a facebook group for goers of [Protospiel events](http://protospiel.events)
+- [Board Game Geek](https://boardgamegeek.com/) - communities for every board game with forums for designers as well
 
 ## Rules Writing
 
