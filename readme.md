@@ -5,8 +5,16 @@
 
 ## Contents
 
+- [Communities](#communities)
 - [Rules Writing](#rules-writing)
+- [Creation Tools](#creation-tools)
 
+## Communities
+
+Places to go to talk about board game design with other designers.
+
+- [/r/tabletopgamedesign](https://www.reddit.com/r/tabletopgamedesign/) - a subreddit filled with game designers
+- [Protospiel Facebook Group](https://www.facebook.com/groups/2261144717) - a facebook group for goers of [Protospiel events](http://protospiel.events)
 
 ## Rules Writing
 
@@ -15,6 +23,14 @@ Information and rules on how to write rules for your board games.
 - [11 rules for board game writing](http://ryanmacklin.com/2015/02/11-rules-board-game-writing/) - dos and don'ts from a board game rules editor
 - [10 rules for writing rules](https://www.youtube.com/watch?v=SshUdUEtIw8) - a PAX dev talk on writing rules
 - [Tips for Rules Writing](http://sedjtroll.blogspot.com/2015/03/tips-for-rules-writing.html) - some guidelines on writing rules
+
+## Creation tools
+
+Tools that can be used in board game development.
+
+- [nanDECK](http://www.nand.it/nandeck/) - a downloadable software for card creation with a custom programming language 
+- [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
+- [The Game Crafter](https://www.thegamecrafter.com/) - a place to buy lots of parts and market your board games independently
 
 ## Contribute
 
