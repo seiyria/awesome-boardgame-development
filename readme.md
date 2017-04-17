@@ -8,6 +8,7 @@
 - [Communities](#communities)
 - [Rules Writing](#rules-writing)
 - [Creator Tools](#creator-tools)
+- [Getting Published](#getting-published)
 
 ## Communities
 
@@ -33,6 +34,12 @@ Tools that can be used in board game development.
 - [nanDECK](http://www.nand.it/nandeck/) - a downloadable software for card creation with a custom programming language 
 - [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
 - [The Game Crafter](https://www.thegamecrafter.com/) - a place to buy lots of parts and market your board games independently
+
+## Getting Published
+
+The Dos and Don'ts of getting your game published.
+
+- [Your First Contract](http://www.jamesmathe.com/alien-first-contract/) - A guide to publisher contracts, what to look for, what to avoid
 
 ## Contribute
 
