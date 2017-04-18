@@ -8,15 +8,19 @@
 - [Communities](#communities)
 - [Rules Writing](#rules-writing)
 - [Creator Tools](#creator-tools)
+- [Physical Resources](#physical-resources)
+- [Visual Resources](#visual-resources)
 - [Getting Published](#getting-published)
 
 ## Communities
 
 Places to go to talk about board game design with other designers.
 
-- [/r/tabletopgamedesign](https://www.reddit.com/r/tabletopgamedesign/) - a subreddit filled with game designers
+- [/r/tabletopgamedesign](https://www.reddit.com/r/tabletopgamedesign/) - a subreddit filled with game designers with irc, slack, and discord available
 - [Protospiel Facebook Group](https://www.facebook.com/groups/2261144717) - a facebook group for goers of [Protospiel events](http://protospiel.events)
-- [Board Game Geek](https://boardgamegeek.com/) - communities for every board game with forums for designers as well
+- [Board Game Geek](https://boardgamegeek.com/) - communities for every board game with [forums for designers](http://boardgamegeek.com/forum/974616/boardgamegeek/board-game-design) as well
+- [Board Game Designers Forum](http://www.bgdf.com/) - a community a game designers
+- [Indie Game Alliance](http://www.indiegamealliance.com/) - helps designers tweak, playtest, get funds, and produce games
 
 ## Rules Writing
 
@@ -33,7 +37,29 @@ Tools that can be used in board game development.
 
 - [nanDECK](http://www.nand.it/nandeck/) - a downloadable software for card creation with a custom programming language 
 - [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
-- [The Game Crafter](https://www.thegamecrafter.com/) - a place to buy lots of parts and market your board games independently
+- [NHMK Card Maker](https://www.nhmk.com/tools.php) - a downloadable software for card creation
+- [AnyDice](http://anydice.com/) - a dice probability calculator
+
+## Physical resources
+
+Websites to custom-order parts for your game.
+
+- [The Game Crafter](https://www.thegamecrafter.com/) - Many pieces, on-demand print of games
+- [Print & Play Productions(http://printplaygames.com/) - Many pieces, on-demand print of games
+- [ArtsCow](http://www.artscow.com/) - Card printing
+- [DriveThroughCards](http://www.drivethrucards.com/join.php) - Card printing
+- [Shapeways](http://www.shapeways.com/marketplace/games/board-games/) - 3d printing
+- [Spielmaterial](https://www.spielematerial.de/en/?___from_store=de) - Various pieces
+- [OneMonk](http://onemonk.com/) - SciFi/Fantasy paper miniatures
+- [Toposolitario](http://www.toposolitario.com/workshop/index.html) - SciFi vehicles/mechs/terrain papercrafts
+
+## Visual Resources
+
+Images, icons, and anything you can use in the creation/prototyping of your game.
+
+- [The Noun Project](https://thenounproject.com/) - tons of high-quality, scalable images and icons
+- [Game Icons](http://game-icons.net/) - tons of game-oriented icons
+- [Game Icons Font](http://seiyria.com/gameicons-font/) - Game Icons, but as a font (created for use with deck.zone)
 
 ## Getting Published
 
