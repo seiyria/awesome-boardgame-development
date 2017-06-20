@@ -8,6 +8,7 @@
 - [Communities](#communities)
 - [Rules Writing](#rules-writing)
 - [Creator Tools](#creator-tools)
+- [Design Tips](#design-tips)
 - [Physical Resources](#physical-resources)
 - [Visual Resources](#visual-resources)
 - [Getting Published](#getting-published)
@@ -39,6 +40,12 @@ Tools that can be used in board game development.
 - [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
 - [NHMK Card Maker](https://www.nhmk.com/tools.php) - a downloadable software for card creation
 - [AnyDice](http://anydice.com/) - a dice probability calculator
+
+## Design Tips
+
+Tips to make your design experience easier.
+
+- [press.exe](http://press.invincible.ink/category/meta/) - a large listing of design tips
 
 ## Physical resources
 
