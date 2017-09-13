@@ -52,7 +52,7 @@ Tips to make your design experience easier.
 Websites to custom-order parts for your game.
 
 - [The Game Crafter](https://www.thegamecrafter.com/) - Many pieces, on-demand print of games
-- [Print & Play Productions(http://printplaygames.com/) - Many pieces, on-demand print of games
+- [Print & Play Productions](http://printplaygames.com/) - Many pieces, on-demand print of games
 - [ArtsCow](http://www.artscow.com/) - Card printing
 - [DriveThroughCards](http://www.drivethrucards.com/join.php) - Card printing
 - [Shapeways](http://www.shapeways.com/marketplace/games/board-games/) - 3d printing
