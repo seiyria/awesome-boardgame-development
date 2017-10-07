@@ -12,6 +12,7 @@
 - [Physical Resources](#physical-resources)
 - [Visual Resources](#visual-resources)
 - [Getting Published](#getting-published)
+- [More Lists](#more-lists)
 
 ## Communities
 
@@ -73,6 +74,13 @@ Images, icons, and anything you can use in the creation/prototyping of your game
 The Dos and Don'ts of getting your game published.
 
 - [Your First Contract](http://www.jamesmathe.com/alien-first-contract/) - A guide to publisher contracts, what to look for, what to avoid
+
+## More Lists
+
+More lists like this one. Some are in the form of blogs, while others have specific topic listings.
+
+- [Cardboard Edison](http://cardboardedison.com/) - A blog-like site that covers a sprawlingly large amount of topics.
+- [Board Game Design Lab](http://www.boardgamedesignlab.com/specific-topics/) - Another list-of-lists site. Has a lot of topics ranging from getting started to getting published.
 
 ## Contribute
 
