@@ -60,6 +60,7 @@ Websites to custom-order parts for your game.
 - [Spielmaterial](https://www.spielematerial.de/en/?___from_store=de) - Various pieces
 - [OneMonk](http://onemonk.com/) - SciFi/Fantasy paper miniatures
 - [Toposolitario](http://www.toposolitario.com/workshop/index.html) - SciFi vehicles/mechs/terrain papercrafts
+- _Building Blocks of Tabletop Game Design: An Encyclopedia of Mechanisms_ - a list of many board game mechanics and more about them
 
 ## Visual Resources
 
