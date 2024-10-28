@@ -70,12 +70,6 @@ Images, icons, and anything you can use in the creation/prototyping of your game
 - [Game Icons](http://game-icons.net/) - tons of game-oriented icons
 - [Game Icons Font](http://seiyria.com/gameicons-font/) - Game Icons, but as a font (created for use with deck.zone)
 
-## Getting Published
-
-The Dos and Don'ts of getting your game published.
-
-- [Your First Contract](http://www.jamesmathe.com/alien-first-contract/) - A guide to publisher contracts, what to look for, what to avoid
-
 ## More Lists
 
 More lists like this one. Some are in the form of blogs, while others have specific topic listings.
