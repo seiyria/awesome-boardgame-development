@@ -49,6 +49,7 @@ Tips to make your design experience easier.
 
 - [press.exe](http://press.invincible.ink/category/meta/) - a large listing of design tips
 - [board game mechanics](https://boardgamegeek.com/browse/boardgamemechanic) - a giant list of board game mechanics
+- [Hybrid playtest rehearsal worksheet](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf) - A free CC BY 4.0 worksheet for checking whether a remote playtester can identify a shared board or card detail before the test.
 
 ## Physical resources
 
