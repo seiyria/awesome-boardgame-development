@@ -42,6 +42,7 @@ Tools that can be used in board game development.
 - [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
 - [NHMK Card Maker](https://www.nhmk.com/tools.php) - a downloadable software for card creation
 - [AnyDice](http://anydice.com/) - a dice probability calculator
+- - [Wallzy](https://wallzy.art/) - a web-based card maker with templates, rules text with icons, print PDFs with bleed and Tabletop Simulator export
 
 ## Design Tips
 
