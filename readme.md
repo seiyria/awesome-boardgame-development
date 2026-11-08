@@ -42,6 +42,7 @@ Tools that can be used in board game development.
 - [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
 - [NHMK Card Maker](https://www.nhmk.com/tools.php) - a downloadable software for card creation
 - [AnyDice](http://anydice.com/) - a dice probability calculator
+- [Calculation Hub Loot Drop Probability Calculator](https://calculation-hub.com/gaming/loot-drop-probability) - a free calculator for the chance of at least one reward after repeated independent, fixed-probability attempts, with assumptions explained.
 
 ## Design Tips
 
