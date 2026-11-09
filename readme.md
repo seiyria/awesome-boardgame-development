@@ -2,6 +2,7 @@
 
 > A curated list of board game development resources
 
+Note: I am choosing to no longer maintain this. I've gotten 4 AI submissions in 4 days. Go advertise somewhere else.
 
 ## Contents
 
