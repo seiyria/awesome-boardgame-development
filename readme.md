@@ -38,6 +38,7 @@ Information and rules on how to write rules for your board games.
 Tools that can be used in board game development.
 
 - [Dextrous](https://dextrous.com.au) - an online tool for making bulk game components. Supports TTS, Screentop, & production level PDF export.
+- [Game Piece Studio](https://gamepiece.studio) - a browser-based tool for designing cards, boards, and tokens from spreadsheet data. Supports print-ready PDF/PNG, TTS, & Screentop export.
 - [nanDECK](http://www.nand.it/nandeck/) - a downloadable software for card creation with a custom programming language 
 - [deck.zone](https://deck.zone) - a web-based software for card creation with a custom programming language
 - [NHMK Card Maker](https://www.nhmk.com/tools.php) - a downloadable software for card creation
